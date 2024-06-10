@@ -1,4 +1,4 @@
-# Power BI_ECOMMERCE_SALES_DASHBOARD_PROJECT 
+# Power BI ECOMMERCE_SALES_DASHBOARD_PROJECT 
 
 Designed a power bi dashboard for  Store to track and analyze the online sales data acorss India.
 
